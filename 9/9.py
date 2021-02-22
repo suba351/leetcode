@@ -6,4 +6,3 @@ class Solution:
             if x_str[i] != x_str[-i - 1]:
                 return False
         return True
-1
